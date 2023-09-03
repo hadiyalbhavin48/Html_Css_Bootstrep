@@ -1,0 +1,74 @@
+
+Media Query
+Display : flex
+
+nav bar me space ka issue he
+body me extra space atihe
+
+
+border: solid 4px green;
+    border-top: solid 4px gray;
+
+border-radius: 0px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 60px;
+    border-bottom-right-radius: 50px
+	
+	
+	border: solid 4px green;
+    border-top: solid 4px gray;
+
+border-radius: 0px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 60px;
+    border-bottom-right-radius: 50px
+
+@media (max-width: 1400px) { ... }
+@media (max-width: 1200px) { ... }
+@media (max-width: 992px) { ... }
+@media (max-width: 768px) { ... }
+@media (max-width: 576px) { ... }
+
+
+border: solid 4px green;
+    border-top: solid 4px gray;
+
+border-radius: 0px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 60px;
+    border-bottom-right-radius: 50px
+
+@media (min-width: 1200px) and (max-width: 1400px) { ... }
+@media (min-width: 992px) and (max-width: 1199px) { ... }
+@media (min-width: 768px) and (max-width: 991px) { 
+    .box {background: orange}
+ }
+@media (min-width: 576px) and (max-width: 767px) { 
+    .box {background: yellow}
+ }
+@media (max-width: 575px) {
+    .box {background: green}
+}
+
+
+Regular space: &nbsp;
+Two spaces gap: &ensp;
+Four spaces gap: &emsp;
+
+flex-direction: column;
+
+https://www.geeksforgeeks.org/how-to-insert-spaces-tabs-in-text-using-html-css/
+
+// ------------------ 02 /08/2023 ------------------
+
+// ------------------ 03 /08/2023 ------------------
+
+background 
+
+
+watch this topes video : Handle Form ,CheckBox,Input Field,if else condition,Form Validation,pass function as Props,Class life cycle method,Constructor Method,Render life cycle
+
+
